@@ -1,0 +1,32 @@
+.imgbg {
+    background-image: url("./images/court.png");
+    height: 584px;
+    width: 942px;
+    position: relative;
+}
+
+.shot {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+}
+
+.hide {
+    display: none;
+}
+
+.selector {
+    text-align: center;
+    height: 70px;
+    width: 150px;
+    position: relative;
+    background-color: darkgray;
+    border-radius: 10px;
+}
+
+.btn {
+    margin: 7px;
+    border-radius: 5px;
+    border: none;
+    display: inline-block;
+}
